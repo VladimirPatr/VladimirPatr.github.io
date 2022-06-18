@@ -1,0 +1,31 @@
+.reviews__quote {
+    display: block;
+    text-align: center;
+    margin: 0 0 50px 0;
+  
+}
+
+.reviews__quote:last-child {
+    margin-bottom: 0;
+}
+
+.reviews__quote>p {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 680px;
+
+    font-size: 20px;
+    line-height: 28px;
+    padding-top: 50px;
+}
+.reviews__quote>img {
+    width: 280px;
+    height: 280px;
+    object-fit: cover;
+    margin-bottom: 11px;
+    margin-right: 20px;
+}
+.reviews__quote>cite {
+    display: block;
+    width: 40%;
+}

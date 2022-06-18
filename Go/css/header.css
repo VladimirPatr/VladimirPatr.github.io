@@ -1,0 +1,15 @@
+.header {
+    padding-top: 146px;
+    height: 969px;   
+}
+.game-over__container {
+    background: url(../img/header-bg.png) right bottom/675px no-repeat;
+    height: 100%; 
+}
+.header-title {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 28px;
+    padding-left: 100px;
+}
